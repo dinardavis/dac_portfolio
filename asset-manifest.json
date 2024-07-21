@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dac_portfolio/static/css/main.a60814fa.css",
-    "main.js": "/dac_portfolio/static/js/main.fd59236d.js",
+    "main.js": "/dac_portfolio/static/js/main.20c11149.js",
     "static/js/787.0fb34385.chunk.js": "/dac_portfolio/static/js/787.0fb34385.chunk.js",
     "static/media/firstcall_english.mp4": "/dac_portfolio/static/media/firstcall_english.27e141b8945a518083c5.mp4",
     "static/media/firstcall_spanish.mp4": "/dac_portfolio/static/media/firstcall_spanish.b18521925acf415758a8.mp4",
@@ -64,11 +64,11 @@
     "static/media/footer_left.png": "/dac_portfolio/static/media/footer_left.81e613b90dc4c6a4285a.png",
     "index.html": "/dac_portfolio/index.html",
     "main.a60814fa.css.map": "/dac_portfolio/static/css/main.a60814fa.css.map",
-    "main.fd59236d.js.map": "/dac_portfolio/static/js/main.fd59236d.js.map",
+    "main.20c11149.js.map": "/dac_portfolio/static/js/main.20c11149.js.map",
     "787.0fb34385.chunk.js.map": "/dac_portfolio/static/js/787.0fb34385.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a60814fa.css",
-    "static/js/main.fd59236d.js"
+    "static/js/main.20c11149.js"
   ]
 }
