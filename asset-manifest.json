@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dac_portfolio/static/css/main.70662c39.css",
-    "main.js": "/dac_portfolio/static/js/main.f75179ce.js",
+    "main.css": "/dac_portfolio/static/css/main.5f4134a3.css",
+    "main.js": "/dac_portfolio/static/js/main.cbd0be8e.js",
     "static/js/787.fd0d37ef.chunk.js": "/dac_portfolio/static/js/787.fd0d37ef.chunk.js",
     "static/media/firstcall_english.mp4": "/dac_portfolio/static/media/firstcall_english.27e141b8945a518083c5.mp4",
     "static/media/firstcall_spanish.mp4": "/dac_portfolio/static/media/firstcall_spanish.b18521925acf415758a8.mp4",
@@ -35,6 +35,7 @@
     "static/media/approach_family.jpg": "/dac_portfolio/static/media/approach_family.e63d27119225f0971e0e.jpg",
     "static/media/psychiatrist.jpg": "/dac_portfolio/static/media/psychiatrist.f435cd42740106def6ce.jpg",
     "static/media/approach_mom.jpg": "/dac_portfolio/static/media/approach_mom.fe4ca5ca22ee72a59dfa.jpg",
+    "static/media/logo_white.png": "/dac_portfolio/static/media/logo_white.0ce10e6a331a00acbb45.png",
     "static/media/donate_family.jpg": "/dac_portfolio/static/media/donate_family.370ff8cc64f2de05f1af.jpg",
     "static/media/handshake.jpg": "/dac_portfolio/static/media/handshake.7bab1919e965a8bb3db3.jpg",
     "static/media/logo.png": "/dac_portfolio/static/media/logo.f26cd80f203342593180.png",
@@ -44,7 +45,6 @@
     "static/media/contact_right.png": "/dac_portfolio/static/media/contact_right.83c4e9b4232899efa9d7.png",
     "static/media/attorney_silhouette.png": "/dac_portfolio/static/media/attorney_silhouette.4dc845deec20fb53e96d.png",
     "static/media/singlepage_bottom.png": "/dac_portfolio/static/media/singlepage_bottom.a8c45cfe1ecba17712ef.png",
-    "static/media/logo_white.png": "/dac_portfolio/static/media/logo_white.f2151e65c28a8203dc7d.png",
     "static/media/singlepage_bottom_white.png": "/dac_portfolio/static/media/singlepage_bottom_white.1fdaf71b322365f090b3.png",
     "static/media/socialworker_silhouette.png": "/dac_portfolio/static/media/socialworker_silhouette.f83deb6fa85ed53fc4ef.png",
     "static/media/approach_graphic_right.png": "/dac_portfolio/static/media/approach_graphic_right.923d93e184ea43715b50.png",
@@ -64,12 +64,12 @@
     "static/media/singlepage_right.png": "/dac_portfolio/static/media/singlepage_right.328081d6b3766a396775.png",
     "static/media/footer_left.png": "/dac_portfolio/static/media/footer_left.81e613b90dc4c6a4285a.png",
     "index.html": "/dac_portfolio/index.html",
-    "main.70662c39.css.map": "/dac_portfolio/static/css/main.70662c39.css.map",
-    "main.f75179ce.js.map": "/dac_portfolio/static/js/main.f75179ce.js.map",
+    "main.5f4134a3.css.map": "/dac_portfolio/static/css/main.5f4134a3.css.map",
+    "main.cbd0be8e.js.map": "/dac_portfolio/static/js/main.cbd0be8e.js.map",
     "787.fd0d37ef.chunk.js.map": "/dac_portfolio/static/js/787.fd0d37ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70662c39.css",
-    "static/js/main.f75179ce.js"
+    "static/css/main.5f4134a3.css",
+    "static/js/main.cbd0be8e.js"
   ]
 }
